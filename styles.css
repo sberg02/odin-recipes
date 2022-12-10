@@ -1,0 +1,29 @@
+body {
+    color:purple;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 48pt;
+}
+
+.ingredients-list {
+    color: fuchsia;
+}
+
+#title {
+font-weight: 700;
+color: coral;
+background-color: darkgrey;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 100;
+}
+
+img {
+height: auto;
+width: 500px;
+}
+
